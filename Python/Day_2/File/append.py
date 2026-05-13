@@ -1,0 +1,11 @@
+with open("Day_2/File/data.txt", "a") as file:
+    file.write("kolom 1\n")
+    file.write("kolom 2\n")
+    file.write("kolom 3\n")
+    file.write("kolom 4\n")
+    file.write("kolom 5\n")
+    file.write("kolom 6\n")
+    file.write("kolom 7\n")
+    file.write("kolom 8\n")
+    file.write("kolom 9\n")
+    file.write("kolom 10\n")
